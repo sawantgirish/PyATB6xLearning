@@ -1,0 +1,1 @@
+print("girish", 123, "sawant", "Joh", sep='__',end="_")
