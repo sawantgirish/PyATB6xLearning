@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c4ba796-7cc1-45c8-8b70-dc844c2d37da" name="Changes" comment="Testing">
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab048_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab049_for_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab050_for_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab051_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab052_IQ2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab_For_reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_007_loops/For/Lab_for_used_real_life.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c4ba796-7cc1-45c8-8b70-dc844c2d37da" name="Changes" comment="Python" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,91 +43,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.LAb006_Identifier.executor": "Run",
-    "Python.LAb022_User_inpur-sum-of-2-numbers.executor": "Run",
-    "Python.LAb024_String.executor": "Run",
-    "Python.LAb024_String_Conversion.executor": "Run",
-    "Python.Lab001_Puthon_Hello.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab002_Comment (1).executor": "Run",
-    "Python.Lab003_Print.executor": "Run",
-    "Python.Lab004_Keywords.executor": "Run",
-    "Python.Lab005_Variable_part1.executor": "Run",
-    "Python.Lab007_Variable_Name.executor": "Run",
-    "Python.Lab008_Dynamically_Typed.executor": "Run",
-    "Python.Lab009_Identifier_Rule.executor": "Run",
-    "Python.Lab010_Maths.executor": "Run",
-    "Python.Lab012_Multiple_Variables.executor": "Run",
-    "Python.Lab013_Multiple_Print.executor": "Run",
-    "Python.Lab014_Multiple_Functions.executor": "Run",
-    "Python.Lab015_IQ.executor": "Run",
-    "Python.Lab016_TypeOF_Literals.executor": "Run",
-    "Python.Lab017_Multi_Comment.executor": "Run",
-    "Python.Lab018_Multi-Comments.executor": "Run",
-    "Python.Lab019_Data_Type.executor": "Run",
-    "Python.Lab020_Builtin_Functions.executor": "Run",
-    "Python.Lab021_Userinput.executor": "Run",
-    "Python.Lab025_String.executor": "Run",
-    "Python.Lab026_Escape_Char(sequence).executor": "Run",
-    "Python.Lab027_String_Dounle-Single-Quote_Diffrence.executor": "Run",
-    "Python.Lab028_Task01.executor": "Run",
-    "Python.Lab029_Task2.executor": "Run",
-    "Python.Lab031_Arth-operator.executor": "Run",
-    "Python.Lab031_Operators.executor": "Run",
-    "Python.Lab031_Unary-Operator.executor": "Run",
-    "Python.Lab033_Logical_operator.executor": "Run",
-    "Python.Lab034_Operators.executor": "Run",
-    "Python.Lab035_Task.executor": "Run",
-    "Python.Lab036_Comparison_Operator.executor": "Run",
-    "Python.Lab039_OperatorExample.executor": "Run",
-    "Python.Lab039_Operator_Example.executor": "Run",
-    "Python.Lab040_Operator.executor": "Run",
-    "Python.Lab040_Ternary_Operator.executor": "Run",
-    "Python.Lab040_User_input-ternary-operatoe.executor": "Run",
-    "Python.Lab041_Membership-oPERATRORS.executor": "Run",
-    "Python.Lab042_Identity_Operator.executor": "Run",
-    "Python.Lab043_MATH.executor": "Run",
-    "Python.Lab043_if_condition.executor": "Run",
-    "Python.Lab048_loop.executor": "Run",
-    "Python.Lab049_for_loop.executor": "Run",
-    "Python.LabMatch002.executor": "Run",
-    "Python.Lab_032_Comparison_Operator.executor": "Run",
-    "Python.Lan037_Logical_Operator.executor": "Run",
-    "Python.Task001.executor": "Run",
-    "Python.Task002.executor": "Run",
-    "Python.Task003.executor": "Run",
-    "Python.Task003_logic_building.executor": "Run",
-    "Python.Task004.executor": "Run",
-    "Python.Task005.executor": "Run",
-    "Python.Task006.executor": "Run",
-    "Python.Task007.executor": "Run",
-    "Python.lab011_Principle_Of_BODMAS.executor": "Run",
-    "Python.lab023_String.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.LAb006_Identifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb022_User_inpur-sum-of-2-numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb024_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LAb024_String_Conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001_Puthon_Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002_Comment (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004_Keywords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005_Variable_part1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007_Variable_Name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008_Dynamically_Typed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009_Identifier_Rule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab010_Maths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab012_Multiple_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab013_Multiple_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014_Multiple_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab015_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab016_TypeOF_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab017_Multi_Comment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab018_Multi-Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab019_Data_Type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab020_Builtin_Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab021_Userinput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab025_String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab026_Escape_Char(sequence).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab027_String_Dounle-Single-Quote_Diffrence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab028_Task01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab029_Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Arth-operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab031_Unary-Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab033_Logical_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab034_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab035_Task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab036_Comparison_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_OperatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab039_Operator_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab040_User_input-ternary-operatoe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab041_Membership-oPERATRORS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab042_Identity_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043_MATH.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab043_if_condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab048_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab049_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LabMatch002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_032_Comparison_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan037_Logical_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task003_logic_building.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab011_Principle_Of_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab023_String.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Girish\PycharmProjects\PyATB6xLearning" />
       <recent name="C:\Users\Girish\PycharmProjects\PyATB6xLearning\src\ex_01_Python_Basics" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab001_Puthon_Hello">
     <configuration name="Lab001_Puthon_Hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
@@ -265,7 +256,7 @@
       <workItem from="1769087020142" duration="9508000" />
       <workItem from="1769105187280" duration="144000" />
       <workItem from="1769177951676" duration="7393000" />
-      <workItem from="1769496508679" duration="2912000" />
+      <workItem from="1769496508679" duration="3530000" />
     </task>
     <task id="LOCAL-00001" summary="NEW FILES ADDED">
       <option name="closed" value="true" />
@@ -371,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769498263048</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Python">
+      <option name="closed" value="true" />
+      <created>1769499795583</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1769499795583</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +379,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NEW FILES ADDED" />
     <MESSAGE value="Testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
+    <MESSAGE value="Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
