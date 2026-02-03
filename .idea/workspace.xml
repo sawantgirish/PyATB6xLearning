@@ -272,8 +272,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.127" />
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
       </set>
     </attachedChunks>
   </component>
@@ -295,6 +295,11 @@
       <workItem from="1769496508679" duration="3530000" />
       <workItem from="1769522238969" duration="2523000" />
       <workItem from="1769536019296" duration="915000" />
+      <workItem from="1769771929447" duration="1301000" />
+      <workItem from="1769877965279" duration="224000" />
+      <workItem from="1769878283853" duration="94000" />
+      <workItem from="1769878392174" duration="50000" />
+      <workItem from="1770142726401" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="NEW FILES ADDED">
       <option name="closed" value="true" />
@@ -456,7 +461,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769530210006</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Python- Testing">
+      <option name="closed" value="true" />
+      <created>1769772026594</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1769772026594</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
